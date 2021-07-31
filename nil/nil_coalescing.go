@@ -1,4 +1,4 @@
-package utils
+package nil
 
 // CoalesceStr check a string pointer if nil returns the fallback value
 func CoalesceStr(source *string, fallback string) string {
